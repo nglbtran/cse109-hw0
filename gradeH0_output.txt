@@ -1,0 +1,1 @@
+user: tln227  hostname: ariel  pwd: /home/tln227/cse109  points: 100  comment: gcc-11.2.0 found in path (+10); '.' found in path (+10); mg alias set to 'gcc -g -Wall -Wextra -Wwrite-strings' (+10); mg+ alias set to 'g++ -g -Wall -Wextra -Wwrite-strings' (+10)vg alias set to 'valgrind --tool=memcheck --leak-check=full --show-leak-kinds=all --keep-debuginfo=yes' (+10)
